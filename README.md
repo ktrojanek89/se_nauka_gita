@@ -5,6 +5,6 @@
 
 echo *"To jest KOD!"*
 
-## *Sekcja 2- własna zmiana"*
+## *Sekcja 2- własna zmiana*
 
 ## *Sekcja 3 - dalsza nauka/push*
